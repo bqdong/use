@@ -1,4 +1,4 @@
-# Things I'am using
+# Things I'm using
 
 ## OS
 
@@ -59,11 +59,10 @@ Standard Rust Toolchain
 - drawio
 - excalidraw
 
-
 ## Misc
 
 - XMind
-- 
+-
 
 ## Other CLI tools
 
