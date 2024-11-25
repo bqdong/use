@@ -8,11 +8,11 @@
 ## Programming Language
 
 - JS/TS
-- Python
 - Java
+- Python
+- C
 - Go
 - Rust
-- C
 
 ### JS/TS
 
@@ -21,6 +21,9 @@
 - Prettier: Formatter
 - Vue: UI Framework
 - Vite: Build tools
+- Vitest: Testing
+- [tsup](https://github.com/egoist/tsup): Bundle
+- UnoCSS/Tailwind: CSS Framework
 
 ### Python
 
@@ -55,20 +58,20 @@ Standard Rust Toolchain
 
 ## Drawing
 
-- mermaid
-- drawio
-- excalidraw
+- [mermaid](https://mermaid.js.org/)
+- [drawio](https://app.diagrams.net/)
+- [excalidraw](https://excalidraw.com/)
 
 ## Misc
 
 - XMind
--
 
 ## Other CLI tools
 
 - Just
-- Tokei
+- Tokei: Count code
 - Git
 - Alacritty
 - dprint
 - Typst
+- [Mise](https://github.com/jdx/mise): tools version manager
