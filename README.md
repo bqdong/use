@@ -65,6 +65,7 @@ Standard Rust Toolchain
 ## Misc
 
 - XMind
+- [PixPin](https://pixpinapp.com/): Screenshot
 
 ## Other CLI tools
 
