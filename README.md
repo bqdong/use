@@ -76,3 +76,5 @@ Standard Rust Toolchain
 - dprint
 - Typst
 - [Mise](https://github.com/jdx/mise): tools version manager
+- starship
+
